@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FarmBuddy</string>
+    <string name="head"><u>FarmBuddy</u></string>
+    <string name="title_activity_main_page">FarmBuddy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FarmBuddy</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="crop_condLbl">Farm Conditions</string>
+    <string name="crop_tempLbl">Temperature</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="plan_crop">Plan Crop</string>
+    <string name="about"><b>The FarmBuddy app is aimed to help farmers across the globe to plan out their crop cycle, with the best
+        possible crop. Our strong machine learning analysis, analyzes your soil condition
+    and suggests you the crop that would not need any external chemical support for growth. Thus taking care of the environment as well
+    as cutting down on expenditures.
+        Farmbuddy Bot in addition is to FarmBuddy App is a complete package for all the smart farmers!</b></string>
+
+    <string-array name="crop_names">
+        <item>Wheat</item>
+        <item>Rice</item>
+        <item>Barley</item>
+        <item>Potato</item>
+    </string-array>
+</resources>
